@@ -1,6 +1,6 @@
 # Sliding Mode Control Simulations
 
-This repository contains Python implementations and study notes based on the book:
+This repository contains Python implementations based on the book:
 
 ## 📘 Reference
 
@@ -24,6 +24,6 @@ Yuri Shtessel, Christopher Edwards, Leonid Fridman, Arie Levant
 
 ---
 
-## 🎯 Goal
+##  Goal
 
 Learn sliding mode control by implementing the examples step by step in Python.
