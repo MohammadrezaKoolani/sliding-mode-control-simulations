@@ -2,7 +2,7 @@
 
 This repository contains Python implementations based on the book:
 
-## 📘 Reference
+## Reference
 
 **Sliding Mode Control and Observation**  
 Yuri Shtessel, Christopher Edwards, Leonid Fridman, Arie Levant  
